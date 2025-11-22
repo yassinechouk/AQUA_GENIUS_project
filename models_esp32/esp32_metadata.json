@@ -1,0 +1,37 @@
+{
+  "date": "2025-11-22 18:41:25",
+  "author": "Yassinechouk",
+  "target_device": "ESP32-S3",
+  "dataset": "C:\\Users\\yassi\\OneDrive\\Bureau\\data ++\\data\\final_dataset.csv",
+  "n_total": 2000,
+  "n_train": 1600,
+  "n_test": 400,
+  "features": [
+    "ETo",
+    "VPD",
+    "soil_moisture",
+    "soil_temp",
+    "categorie"
+  ],
+  "n_features": 5,
+  "outputs": [
+    "pump_status",
+    "irrigation_volume"
+  ],
+  "scaler_means": [
+    7.447268195862,
+    0.8779369817944999,
+    47.4692161353983,
+    20.561939962674465,
+    1.9
+  ],
+  "scaler_scales": [
+    3.5273891290702766,
+    0.6901692973725315,
+    7.626564035641168,
+    7.000488083804127,
+    0.7
+  ],
+  "model_type": "XGBoost Compact (ESP32 Optimized)",
+  "notes": "Modèle optimisé pour déploiement sur ESP32-S3 avec 5 features capteurs"
+}

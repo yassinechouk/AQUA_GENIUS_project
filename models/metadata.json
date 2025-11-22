@@ -1,0 +1,24 @@
+{
+  "date": "2025-11-22 13:44:26",
+  "author": "Yassinechouk",
+  "dataset": "C:/Users/yassi/OneDrive/Bureau/data ++/final_dataset.csv",
+  "n_total": 2000,
+  "n_train": 1600,
+  "n_test": 400,
+  "features": [
+    "tmean",
+    "tmin",
+    "tmax",
+    "humidite",
+    "Ra",
+    "ETo",
+    "VPD",
+    "soil_temp",
+    "soil_moisture",
+    "categorie"
+  ],
+  "outputs": [
+    "pump_status",
+    "irrigation_volume"
+  ]
+}
