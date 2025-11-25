@@ -2,11 +2,6 @@
 
 <div align="center">
 
-![ESP32](https://img.shields.io/badge/ESP32--S3-Embedded-blue? logo=espressif)
-![Python](https://img.shields. io/badge/Python-3.8+-green? logo=python)
-![XGBoost](https://img.shields. io/badge/XGBoost-ML-orange)
-![Blynk](https://img.shields. io/badge/Blynk-IoT-00C7B7?logo=blynk)
-![License](https://img. shields.io/badge/License-MIT-yellow)
 
 **An intelligent, ML-powered irrigation system optimized for precision agriculture**
 
